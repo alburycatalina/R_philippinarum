@@ -11,7 +11,7 @@ def load_defaults():
 
     # Framework
 
-    days = 365 * 7 # Two years
+    days = 365 * 2 # Two years
 
     dt   = 0.001 # units: days
 
