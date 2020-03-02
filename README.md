@@ -6,7 +6,7 @@ A truncated version of the model was recreated using formulas presented in the p
 
 A few modifications were needed to be made in order to force the model outputs to mirror those presented in the paper (noted in code annotations). 
 
-Thanks to Diego Ibarra of Dalhousie Univerisity's Oceanography Dept for providing the "skeleton" my model is based on and for assiatance with troubleshooting. 
+Thanks to Diego Ibarra of Dalhousie Univerisity's Oceanography Dept. for providing the "skeleton" my model is based on and for assiatance with troubleshooting. 
 
 ## Sources Cited
 
