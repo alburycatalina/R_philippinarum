@@ -7,3 +7,15 @@ A truncated version of the model was recreated using formulas presented in the p
 A few modifications needed to be made in order to force the model outputs to mirror those presented in the paper (noted in code annotations). 
 
 Thanks to Diego Ibarra of Dalhousie Univerisity's Oceanography Dept for providing the "skeleton" for the model and assiatance with troubleshooting. 
+
+## Sources Cited
+
+Flye-Sainte-Marie, J., Jean, F., Paillard, C., Ford, S., Powell, E., Hofmann, E., Klinck, J., 2007. Ecophysiological dynamic model of individual growth of Ruditapes philippinarum. Aquaculture 266, 130–143. https://doi.org/10.1016/j.aquaculture.2007.02.017
+
+Borrego, J.J., Castro, D., Luque, A., Paillard, C., Maes, P., Garcia, M.T., Ventosa, A., 1996. Vibrio tapetis sp. nov., the causative agent of the brown ring disease affecting cultured clams. Int. J. Syst. Bacteriol. 46, 480–484. https://doi.org/10.1099/00207713-46-2-480
+
+Cordero, D., Delgado, M., Liu, B., Ruesink, J., Saavedra, C., 2017. Population genetics of the Manila clam (Ruditapes philippinarum) introduced in North America and Europe. Sci. Rep. 7, 1–13. https://doi.org/10.1038/srep39745
+
+Paillard, C., Maes, P., Oubella, R., 1994. Brown ring disease in clams. Annu. Rev. Fish Dis. 4, 219–240. https://doi.org/10.1016/0959-8030(94)90030-2
+
+
