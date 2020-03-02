@@ -4,7 +4,7 @@ This repo contains an attempt at recreating a truncated python version of the mo
 
 A truncated version of the model was recreated using formulas presented in the paper, as spawning was considered to be outside of the scope of the project due to various issues in the formulas and parameters presented. A conceptual model of the variables and processes in the model is presented in Figure 1. Inputs include temperature in °C and Food in g DW calculated from chlorophyll concentration. A portion of the food is then filtered, ingested and assimilated and allocated to net growth in the form of length and weight.
 
-A few modifications needed to be made in order to force the model outputs to mirror those presented in the paper (noted in code annotations). 
+A few modifications were needed to be made in order to force the model outputs to mirror those presented in the paper (noted in code annotations). 
 
 Thanks to Diego Ibarra of Dalhousie Univerisity's Oceanography Dept for providing the "skeleton" for the model and assiatance with troubleshooting. 
 
