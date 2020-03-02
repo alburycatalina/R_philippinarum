@@ -1,4 +1,4 @@
-# R_philippinarum
+# R_philippinarum Ecophysiology
 
 This repo contains an attempt at recreating a truncated python version of the model described in Flye-Sainte-Marie et al. 2007. This paper models the growth an individual clam, _Ruditapes phillipinarum_. The species, also widely known as the Manila clam, is the second most aquacultured bivalve globally (Cordero et al. 2017). The authors sought to model the growth of this organism in order to establish baseline information on the effects of environmental parameters on weight and length to improve the understanding of the host-pathogen relationship between _R. phillipinarum_ and Brown Ring Disease (BRD). BRD is a bacterial infection which disrupts the calcification process of the clam (Paillard 1994). It has been known to occur in clam cultures around Europe and has resulted in significant disruptions in clam aquaculture (Borrego 1996). In order to address this problem, the authors created an ecophysiological model of the growth of a single Manila clam. 
 
